@@ -1,5 +1,5 @@
-# Polygon
-## NFT Transfer
+# ETH+AVAX
+## DegenToken
 
 This Solidity program is a simple program that can be used by a user to mint NFTS and then transfer them, burn them or redeem them for an item.
 
